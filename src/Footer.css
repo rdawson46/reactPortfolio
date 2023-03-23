@@ -1,0 +1,14 @@
+footer{
+    text-align: center;
+    color: aliceblue;
+    background-color: #041e42;
+    height: 40px;
+    font-size: medium;
+    border-top: gray solid 10px;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
+
+a{
+    color:lightgray;
+}

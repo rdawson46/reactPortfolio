@@ -1,0 +1,22 @@
+.Header{
+    background-color: #041e42;
+    min-height: 15vh;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius:15px;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: aliceblue;
+    border-bottom: gray solid 10px;
+    margin-bottom: 15px;
+}
+
+.Header > h1{
+    margin-bottom: 0;
+}
+
+.header > h3{
+    margin-bottom: 0;
+}
+

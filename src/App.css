@@ -1,0 +1,11 @@
+.App{
+  background-color: #282c34;
+  min-height: 100vh;
+}
+
+.mainPage{
+  background-color: #e7e7e7;
+  min-height: 100vh;
+  margin-left: 2.5%;
+  margin-right: 2.5%;
+}
